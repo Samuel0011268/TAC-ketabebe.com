@@ -1,0 +1,91 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+     background-image: url("love.jpeg.jpg");
+    }
+    form {
+      background: #302e2eb2;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    input[type="text"],
+    input[type="password"],
+    button {
+      display: block;
+      width: 100%;
+      margin-bottom: 10px;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      box-sizing: border-box;
+    }
+    button {
+      background-color: #0f7a13;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0d7412;
+    }
+  h2{
+      color: #0ca900;
+  }
+p{
+     color: #ffffffc3;
+}
+p7{
+  color: #ffffffc3;
+ justify-content: right;
+  display: flex;
+}
+a{
+    color: #f37906;
+}
+p1{
+  color: #2b58ffe1;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+      
+}
+p3{
+  color: #0b30b8e1;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+      
+}
+input
+p2{
+  color: #0533dae1;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+      
+}
+h4{
+  color: #f6f7fa;
+  font-family: fantasy;
+  border-left-color: #0530a7;
+  font-style: normal;
+  font-display: flex;
+  font-size: medium;
+  font-weight: 90000;
+}
+h1{
+  color: #0ca900;
+ display: flex;
+ justify-content: center;
+}
+h3{
+  color: rgb(252, 246, 246);
+  font: bold;
+  font-family: fantasy;
+}
