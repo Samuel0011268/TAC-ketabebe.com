@@ -6,7 +6,13 @@ body {
       justify-content: center;
       align-items: center;
       height: 100vh;
-     background-image: url("love.jpeg.jpg");
+     background-image: url("TAC.jpeg.jpg");
+     background-size: auto;
+     background-repeat: no-repeat;
+     background-clip: content-box;
+     background-position: 200px;
+     background-position: 100pt;
+
     }
     form {
       background: #302e2eb2;
@@ -88,4 +94,12 @@ h3{
   color: rgb(252, 246, 246);
   font: bold;
   font-family: fantasy;
+}
+img{
+  width: 100px;
+  height: 100px;
+  border-radius: 500px;
+ image-resolution: 200px;
+ float: right;
+ position: fixed;
 }
